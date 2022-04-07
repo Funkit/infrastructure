@@ -1,0 +1,17 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Remove Terraform provider related files
+.terraform/
+.terraform.lock.hcl
+
+# Remove personal variable files
+personalvars_*
+
+# remove backup/old files
+*.backup
+*.OLD
