@@ -7,7 +7,6 @@
 
 # Remove Terraform provider related files
 .terraform/
-.terraform.lock.hcl
 
 # Remove personal variable files
 personalvars_*
