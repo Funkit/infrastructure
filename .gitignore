@@ -14,3 +14,6 @@ personalvars_*
 # remove backup/old files
 *.backup
 *.OLD
+
+# testing scripts
+*.bat
