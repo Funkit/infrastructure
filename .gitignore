@@ -17,3 +17,5 @@ personalvars_*
 
 # testing scripts
 *.bat
+
+.idea/
