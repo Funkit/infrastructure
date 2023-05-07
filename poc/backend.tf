@@ -3,7 +3,7 @@ terraform {
     organization = "Funkit"
 
     workspaces {
-      name = "sandbox"
+      name = "poc"
     }
   }
 }
